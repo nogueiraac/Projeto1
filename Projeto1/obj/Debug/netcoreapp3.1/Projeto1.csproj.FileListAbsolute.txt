@@ -11,3 +11,17 @@ C:\Users\arthur.nogueira\Desktop\workspace\Projeto1\Projeto1\obj\Debug\netcoreap
 C:\Users\arthur.nogueira\Desktop\workspace\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.dll
 C:\Users\arthur.nogueira\Desktop\workspace\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.pdb
 C:\Users\arthur.nogueira\Desktop\workspace\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.genruntimeconfig.cache
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.exe
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.deps.json
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.json
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.dev.json
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.AssemblyReference.cache
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\arthur.nogueira\Documents\Projeto1\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.genruntimeconfig.cache
